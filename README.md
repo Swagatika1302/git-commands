@@ -1,2 +1,1 @@
-# git-commands
-all command
+all commands
